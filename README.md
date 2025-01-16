@@ -1,2 +1,5 @@
-# my-code-
-i made something for testing only it doesnt 100% work like Capture the Dev console logs of roblox by hooking an dll ??
+# Code
+Hello I made this stuff for Testing for capture the roblox console logs it doesnt 100% work
+you have full right to use it only with credit!
+
+- Ethan                                                                                                                **Ethan**
